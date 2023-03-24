@@ -1,4 +1,4 @@
-# ![Scale-Up Velocity](./readme-files/logo-main.png) Omri Zilberstein - Dark Web Scraper
+# ![Scale-Up Velocity](./readme-files/logo-main.png) Abhishek - Dark Web Scraper
 
 In this project I created a Dark Web Scraper and dashboard, using React.js, Express, Python 3.8, MongoDB database and Elasticsearch database. \
 The scraped data is indexed in Elasticsearch for quick text querying and users data is saved in MongoDB. \
